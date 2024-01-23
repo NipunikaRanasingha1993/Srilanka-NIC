@@ -50,6 +50,7 @@ export default function Nic(){
     <hr />
     <Card sx={{maxWidth:200,padding:2}}>
     <TextField value={birthday} disabled id="outlined-basic" label="Date Of Birth" variant="outlined" />
+    <br />
     <TextField value={gender} disabled id="outlined-basic" label="Gender" variant="outlined" />
     
     
